@@ -9,7 +9,7 @@ In addition, any source source examples are licensed under the [MIT License](htt
 
 # Viewing slides
 
-The slides are in [org mode](https://orgmode.org/) format, which GitHub renders natively. Just view them online.
+The slides are in [org mode](services.org) format, which GitHub renders natively. Just view them online. Alternatively, you can also view an exported [PDF](services.pdf).
 
 # Editing slides
 
